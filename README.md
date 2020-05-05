@@ -4,7 +4,7 @@ Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on 
 ![Preview](preview.jpg)
 
 ## Live links (replace with your own)
-- Leaflet Map https://chiraporn-noo.github.io/leaflet-maps-with-google-sheets/index.html
+- Leaflet Map https://chiraporn-noo.github.io/leaflet-maps-with-google-sheets
 - Google Sheets template https://docs.google.com/spreadsheets/d/130XYgwBL3hsQ3AhDHOwq0NejUixFS-xFGdmtAZa6iH8/edit#gid=0
 
 ## Create your own
